@@ -1,0 +1,7 @@
+com.tencent.yolov8ncnn.app-pngs-0 E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\generated\res\pngs\debug
+com.tencent.yolov8ncnn.app-resValues-1 E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\generated\res\resValues\debug
+com.tencent.yolov8ncnn.app-packageDebugResources-2 E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.tencent.yolov8ncnn.app-packageDebugResources-3 E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.tencent.yolov8ncnn.app-debug-4 E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.tencent.yolov8ncnn.app-debug-5 E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\debug\res
+com.tencent.yolov8ncnn.app-main-6 E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\res

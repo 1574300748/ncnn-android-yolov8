@@ -1,0 +1,1 @@
+E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\cxx\Debug\8175ur5h\obj\x86

@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\.cxx\Debug\8175ur5h\arm64-v8a'
+ninja: no work to do.

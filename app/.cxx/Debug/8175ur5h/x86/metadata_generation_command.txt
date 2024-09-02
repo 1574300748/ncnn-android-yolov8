@@ -1,0 +1,18 @@
+                        -HE:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=D:\Android_Proj\android_sdk\new_SDK\ndk\25.1.8937393
+-DCMAKE_ANDROID_NDK=D:\Android_Proj\android_sdk\new_SDK\ndk\25.1.8937393
+-DCMAKE_TOOLCHAIN_FILE=D:\Android_Proj\android_sdk\new_SDK\ndk\25.1.8937393\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Android_Proj\android_sdk\new_SDK\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\cxx\Debug\8175ur5h\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\cxx\Debug\8175ur5h\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BE:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\.cxx\Debug\8175ur5h\x86
+-GNinja
+                        Build command args: []
+                        Version: 2

@@ -1,0 +1,17 @@
+com.tencent.yolov8ncnn:id/tv_result = 0x7f02000a
+com.tencent.yolov8ncnn:id/btn_select_image = 0x7f020008
+com.tencent.yolov8ncnn:id/btn_recognize = 0x7f020007
+com.tencent.yolov8ncnn:drawable/dateset_light_14 = 0x7f050001
+com.tencent.yolov8ncnn:id/textView = 0x7f020005
+com.tencent.yolov8ncnn:string/app_name = 0x7f040000
+com.tencent.yolov8ncnn:drawable/light_camera_green_4 = 0x7f050000
+com.tencent.yolov8ncnn:id/button2 = 0x7f020006
+com.tencent.yolov8ncnn:id/button = 0x7f020004
+com.tencent.yolov8ncnn:id/imageView = 0x7f020009
+com.tencent.yolov8ncnn:layout/main = 0x7f030000
+com.tencent.yolov8ncnn:id/spinnerModel = 0x7f020003
+com.tencent.yolov8ncnn:array/model_array = 0x7f010001
+com.tencent.yolov8ncnn:id/spinnerCPUGPU = 0x7f020002
+com.tencent.yolov8ncnn:id/cameraview = 0x7f020001
+com.tencent.yolov8ncnn:id/buttonSwitchCamera = 0x7f020000
+com.tencent.yolov8ncnn:array/cpugpu_array = 0x7f010000

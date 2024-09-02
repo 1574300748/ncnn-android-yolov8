@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\.gradle\\daemon\\8.4\\com.tencent.yolov8ncnn.app-debug-4:\\layout_main.xml.flat",
+        "source": "E:\\.gradle\\daemon\\8.4\\com.tencent.yolov8ncnn.app-main-6:\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\.gradle\\daemon\\8.4\\com.tencent.yolov8ncnn.app-debug-4:\\drawable_light_camera_green_4.jpg.flat",
+        "source": "E:\\.gradle\\daemon\\8.4\\com.tencent.yolov8ncnn.app-main-6:\\drawable\\light_camera_green_4.jpg"
+    },
+    {
+        "merged": "com.tencent.yolov8ncnn.app-debug-4:/layout_main.xml.flat",
+        "source": "com.tencent.yolov8ncnn.app-main-6:/layout/main.xml"
+    },
+    {
+        "merged": "E:\\.gradle\\daemon\\8.4\\com.tencent.yolov8ncnn.app-debug-4:\\drawable_dateset_light_14.jpg.flat",
+        "source": "E:\\.gradle\\daemon\\8.4\\com.tencent.yolov8ncnn.app-main-6:\\drawable\\dateset_light_14.jpg"
+    }
+]

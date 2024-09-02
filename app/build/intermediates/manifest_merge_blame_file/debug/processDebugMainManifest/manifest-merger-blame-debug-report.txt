@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.yolov8ncnn"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="24" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:6:5-65
+11-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:6:22-62
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:7:5-80
+12-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:8:5-79
+13-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:8:22-77
+14
+15    <uses-feature android:name="android.hardware.camera2.full" />
+15-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:9:5-66
+15-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:9:19-63
+16
+17    <application
+17-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:11:5-20:19
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:label="@string/app_name"
+20-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:11:18-50
+21        android:testOnly="true" >
+22        <activity
+22-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:12:9-19:20
+23            android:name="com.tencent.yolov8ncnn.MainActivity"
+23-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:12:19-46
+24            android:label="@string/app_name"
+24-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:13:19-51
+25            android:screenOrientation="portrait" >
+25-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:14:19-55
+26            <intent-filter>
+26-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:15:13-18:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:16:17-69
+27-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:16:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:17:17-77
+29-->E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\main\AndroidManifest.xml:17:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

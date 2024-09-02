@@ -1,0 +1,11 @@
+com.tencent.yolov8ncnn
+array cpugpu_array
+array model_array
+drawable dateset_light_14
+drawable light_camera_green_4
+id btn_recognize
+id btn_select_image
+id imageView
+id tv_result
+layout main
+string app_name

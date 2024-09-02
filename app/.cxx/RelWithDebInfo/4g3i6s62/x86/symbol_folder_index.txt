@@ -1,0 +1,1 @@
+E:\StudyData\Android\Project\Yolo\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\cxx\RelWithDebInfo\4g3i6s62\obj\x86
