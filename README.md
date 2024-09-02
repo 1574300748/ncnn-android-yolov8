@@ -39,3 +39,4 @@ https://github.com/nihui/opencv-mobile
 https://github.com/nihui/ncnn-android-nanodet  
 https://github.com/Tencent/ncnn  
 https://github.com/ultralytics/assets/releases/tag/v0.0.0
+# ncnn-android-ncnn
